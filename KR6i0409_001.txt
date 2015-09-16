@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:16.575575
+#+DATE: 2015-08-30 20:18:17.739939
 #+TITLE: 佛說舊城喻經
 #+PROPERTY: CBETA_ID T16n0715
 #+PROPERTY: ID KR6i0409
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 715
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0409_T_001-0829a> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.715[Nos.713,714]¶
-
- 《佛說舊城喻經》¶
+No. 715 [Nos. 713, 714]¶
+《佛說舊城喻經》¶
 ¶
-西天譯經三藏朝奉大夫試光祿卿¶
+西天譯經三藏朝奉大夫試光祿卿明教大師臣奉大夫試光祿卿¶
 明教大師臣法賢奉　詔譯¶
 
 如是我聞：
