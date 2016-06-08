@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:16.575575
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:29
 #+TITLE: 佛說舊城喻經
 #+PROPERTY: CBETA_ID T16n0715
 #+PROPERTY: ID KR6i0409
